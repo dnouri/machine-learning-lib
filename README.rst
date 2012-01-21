@@ -1,5 +1,5 @@
-mymllib
-=======
+machine-learning-lib
+====================
 
 A small and personal library of `machine learning
 <http://www.ml-class.org>`_ functions for use with `GNU Octave
