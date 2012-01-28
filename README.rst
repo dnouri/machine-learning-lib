@@ -12,4 +12,4 @@ function in your ``~/.octaverc``.
 You may run some basic tests that are included in this library by
 typing in into the Octave interpreter::
 
-  mymllibTestAll;
+  machineLearningLibTestAll.m;
